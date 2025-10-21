@@ -186,8 +186,8 @@ if __name__ == "__main__":
 
 ## 🖥️ Output Screenshot
 
-![Calculator Output](images/testss.png)
-![Calculator Output](images/output1.png)
+![To-Do text Output](images/textss.png)
+![To-Do Output](images/output1.jpg)
 
 ---
 
